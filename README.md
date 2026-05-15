@@ -16,7 +16,6 @@ The project aims to bridge the gap between younger generations and local history
 - 📖 Category-wise story browsing
 - 🔍 Smooth navigation between screens
 - 💾 Offline data storage using Room Database
-- 🖼️ Dynamic image loading using Glide
 - ⚡ MVVM Architecture for better performance and maintainability
 
 ---
